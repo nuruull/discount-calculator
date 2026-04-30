@@ -71,7 +71,8 @@ This project helps students understand:
 - Simple business calculations
 - GUI application development
 
+It is also suitable for beginner learners aged 8–16 years old because the logic is simple and easy to understand.
+
 ## Screenshot
 
-![discount-calculator](Screenshot disc-calc.png)
-It is also suitable for beginner learners aged 8–16 years old because the logic is simple and easy to understand.
+<img src="Screenshot disc-calc.png" width="500">
